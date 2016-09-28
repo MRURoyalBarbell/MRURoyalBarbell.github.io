@@ -558,3 +558,13 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
+.intro {
+  color: #337ab7;
+}
+
+#intro_text {
+  color: #337ab7;
+  text-shadow: none;
+}
