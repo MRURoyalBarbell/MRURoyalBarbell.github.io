@@ -568,3 +568,7 @@ body {
   color: #337ab7;
   text-shadow: none;
 }
+
+#PastMembers h3{
+    color: black;
+}
