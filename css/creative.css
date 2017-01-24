@@ -572,3 +572,7 @@ body {
 #PastMembers h3{
     color: black;
 }
+
+a:hover {
+    color: darkblue;
+}
